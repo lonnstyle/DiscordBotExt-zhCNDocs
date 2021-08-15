@@ -1,6 +1,6 @@
 INHERIT: ../base.yml
 site_dir: ../../site
-site_url:https://discordbotextension.readthedocs.io/zh_CN/latest
+use_directory_urls: false
 
 nav:
     - 歡迎: index.md

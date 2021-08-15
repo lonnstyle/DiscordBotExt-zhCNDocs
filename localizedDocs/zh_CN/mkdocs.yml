@@ -1,5 +1,5 @@
 INHERIT: ../base.yml
-site_dir: ../site
+site_dir: ../../site
 site_url: https://discordbotextension.readthedocs.io/zh_CN
 
 nav:

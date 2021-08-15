@@ -1,4 +1,7 @@
 site_name: DiscordBotExt
+repo_url: https://github.com/lonnstyle/DiscordBotExt
+site_url: https://discordbotextension.readthedocs.io/zh_CN
+site_dir: ./site
 repo_name: DiscordBotExt
 site_author: lonnstyle
 copyright: © 2021 lonnstyle

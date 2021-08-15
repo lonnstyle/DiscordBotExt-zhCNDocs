@@ -6,10 +6,10 @@
 [![Github all releases](https://img.shields.io/github/downloads/lonnstyle/DiscordBotExt/total.svg)](https://GitHub.com/lonnstyle/DiscordBotExt/releases/)
 [![Discord](https://img.shields.io/discord/815462037840330762.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MdZxTNkpGF)
 <br/>
-这是简体的没错<br/>
-[DiscordBotExt](https://github.com/lonnstyle/DiscordBotExt)是由**lonnstyle**基於[discord.py](https://pypi.org/project/discord.py/)開發的一款Discord機器人擴展程序檔。<br/>
-你可以在[Github releases](https://github.com/lonnstyle/DiscordBotExt/releases)下載並進行[快速安裝](quickInstall)或使用[指令擴展庫](https://github.com/lonnstyle/DiscordBotExt/blob/main/cmds)自行調整。<br/>
-如果你是第一次使用，可以先按照快速安裝的方式進行安裝並開始使用機器人，亦歡迎加入我們的[Discord](https://discord.gg/MdZxTNkpGF)伺服器體驗公開的機器人。
+
+[DiscordBotExt](https://github.com/lonnstyle/DiscordBotExt)是由**lonnstyle**基于[discord.py](https://pypi.org/project/discord.py/)开发的一款Discord机器人扩展程序档。 <br/>
+你可以在[Github releases](https://github.com/lonnstyle/DiscordBotExt/releases)下载并进行[快速安装](quickInstall)或使用[指令扩展库](https://github.com/lonnstyle/DiscordBotExt/blob/main/cmds)自行调整。 <br/>
+如果你是第一次使用，可以先按照快速安装的方式进行安装并开始使用机器人，亦欢迎加入我们的[Discord](https://discord.gg/MdZxTNkpGF)伺服器体验公开的机器人。
 
 <p style="position:relative;right:-345px;"><iframe src="https://discord.com/widget?id=815462037840330762&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </p>

@@ -1,4 +1,4 @@
-快速安裝
+快速安装
 =====
 假設你已經安裝了[python 3](https://www.python.org/)，你可以直接從[GitHub Release](https://github.com/lonnstyle/DiscordBotExt/releases)下載機器人所需要的文件。<br/>
 

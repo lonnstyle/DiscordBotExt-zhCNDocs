@@ -1,5 +1,4 @@
 INHERIT: base.yml
-site_dir: ../site
 use_directory_urls: False
 
 nav:
